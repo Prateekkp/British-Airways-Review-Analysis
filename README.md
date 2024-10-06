@@ -39,11 +39,11 @@ This project presents a comprehensive analysis of customer reviews for British A
 
 - **Geographical Insights**: 
   - A map visualizes the **average overall rating by country**, identifying regions where British Airways performs exceptionally well or needs improvement.
-  ![Rating by Country](images/Avg_Overall_Rating_by_Country.png)
+  ![Rating by Country](images/Screenshot 2024-10-06 233220.png)
 
 - **Aircraft Type Performance**:
   - A bar chart demonstrates the **average overall rating by aircraft type** and is further segmented by the number of reviews, helping identify top-performing and underperforming aircraft.
-  ![Rating by Aircraft](images/Avg_Rating_by_Aircraft.png)
+  ![Rating by Aircraft](images/Screenshot 2024-10-06 233253.png)
 
 ---
 
